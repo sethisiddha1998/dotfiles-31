@@ -1,0 +1,6 @@
+Command=.local/bin/curtim
+UseLabel=0
+Text=
+UpdatePeriod=30000
+Font=Roboto 15
+
